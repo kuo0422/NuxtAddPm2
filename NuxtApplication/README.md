@@ -15,6 +15,12 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+# pm2 run server
+$ npm run pm2-prod
+
+# pm2 restart server
+$ npm run m2-prod-restart
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
