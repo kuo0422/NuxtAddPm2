@@ -1,0 +1,1 @@
+start cmd /k "D:\NuxtAddPm2\ReStart.bat"
